@@ -1,0 +1,62 @@
+[
+    {
+        "kodeBarang": "BRG0001",
+        "namaBarang": "HP MQ X99",
+        "jenisBarang": "Elektronik",
+        "hargaBarang": "5000000"
+    },
+    {
+        "kodeBarang": "BRG0002",
+        "namaBarang": "LAPTOP MQ",
+        "jenisBarang": "Elektronik",
+        "hargaBarang": "10000000"
+    },
+    {
+        "kodeBarang": "BRG0003",
+        "namaBarang": "Power Bank MQ",
+        "jenisBarang": "Elektronik",
+        "hargaBarang": "300000"
+    },
+    {
+        "kodeBarang": "BRG0004",
+        "namaBarang": "Beras",
+        "jenisBarang": "Makanan",
+        "hargaBarang": "250000"
+    },
+    {
+        "kodeBarang": "BRG0005",
+        "namaBarang": "Indomie",
+        "jenisBarang": "Makanan",
+        "hargaBarang": "150000"
+    },
+    {
+        "kodeBarang": "BRG0006",
+        "namaBarang": "Susu",
+        "jenisBarang": "Makanan",
+        "hargaBarang": "100000"
+    },
+    {
+        "kodeBarang": "BRG0007",
+        "namaBarang": "Gamis MQ",
+        "jenisBarang": "Pakaian",
+        "hargaBarang": "300000"
+    },
+    {
+        "kodeBarang": "BRG0008",
+        "namaBarang": "Sarung MQ",
+        "jenisBarang": "Pakaian",
+        "hargaBarang": "70000"
+    },
+    {
+        "kodeBarang": "BRG0009",
+        "namaBarang": "Peci MQ",
+        "jenisBarang": "Pakaian",
+        "hargaBarang": "30000"
+    },
+    {
+        "kodeBarang": "BRG0010",
+        "namaBarang": "Celana MQ",
+        "jenisBarang": "Pakaian",
+        "hargaBarang": "150000"
+    }
+]
